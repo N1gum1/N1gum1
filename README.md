@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, schedule, arts
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...💻
-- 📫 How to reach me: rebeccaousa53@gmail.com or +55(61)996839407
+- 📫 How to reach me: rebeccaousa53@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
