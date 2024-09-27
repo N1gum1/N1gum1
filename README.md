@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...💻
 - 📫 How to reach me: rebeccaousa53@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
 <!---
