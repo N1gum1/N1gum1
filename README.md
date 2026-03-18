@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, schedule, arts
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...💻
-- 📫 How to reach me: rebeccaousa523@gmail.com
+- 📫 How to reach me: rebeccagalvao523@gmail.com
 - ⚡ Fun fact: 
 
 <!---
